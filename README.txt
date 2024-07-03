@@ -1,13 +1,15 @@
-This is a backend coding test I did for a couple years ago. It has been refactored and
-updated.
+This is a backend coding test I did a couple years ago. It has been refactored and updated.
 
 List of Stopwords
-src: https://gist.github.com/sebleier/554280
-location: https://gist.githubusercontent.com/rg089/35e00abf8941d72d419224cfd5b5925d/raw/12d899b70156fd0041fa9778d657330b024b959c/stopwords.txt
+
+Source: https://gist.github.com/sebleier/554280
+
+Location: https://gist.githubusercontent.com/rg089/35e00abf8941d72d419224cfd5b5925d/raw/12d899b70156fd0041fa9778d657330b024b959c/stopwords.txt
 
 Steps:
-> Create a virtual env (venv, conda, etc.) and activate it
-> pip install requirement.txt
+
+	> Create a virtual env (venv, conda, etc.) and activate it
+	> pip install requirement.txt
 
 Notes:
 
